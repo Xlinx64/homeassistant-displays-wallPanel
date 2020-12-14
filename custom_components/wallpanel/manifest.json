@@ -1,0 +1,8 @@
+{
+    "domain": "wallPanel",
+    "name": "WallPanel",
+    "documentation": "https://github.com/Xlinx64/homeassistant-displays-wallPanel",
+    "dependencies": [],
+    "codeowners": ["@Xilinx64"],
+    "requirements": ["requests"]
+}

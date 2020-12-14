@@ -1,0 +1,5 @@
+{
+    "name": "Home Assistant Display - WallPanel App",
+    "iot_class": "Local Polling",
+    "render_readme": true
+}
